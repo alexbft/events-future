@@ -1,0 +1,28 @@
+{
+  "name": "events-future",
+  "version": "0.0.1",
+  "description": "Add .future and .wait methods to EventEmitter instances, to integrate with node-fibers",
+  "keywords": [
+    "fibers",
+    "events"
+  ],
+  "author": {
+    "name": "Alexey Kuzyakov",
+    "email": "alexbft.npm@gmail.com"
+  },
+  "main": "events-future",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexbft/events-future.git"
+  },
+  "dependencies": {
+    "fibers": "*"
+  },
+  "licence": "MIT",
+  "optionalDependencies": {},
+  "_id": "events-future@0.0.1",
+  "dist": {
+    "shasum": "1c2c7f9adac9b180d9e2c01fbd6f81c1e41338c1"
+  },
+  "_from": "events-future"
+}
